@@ -1,0 +1,9 @@
+{
+	"id": "mVUZvU2svMxT3ee",
+	"json": "{\"id\":\"mVUZvU2svMxT3ee\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/fondant-magistral-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/fondant-magistral-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/fondant-magistral-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":40,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:59.801Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/fondant-magistral-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/fondant-magistral-conditioner.html"
+}

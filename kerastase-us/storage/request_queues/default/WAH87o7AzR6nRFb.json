@@ -1,0 +1,9 @@
+{
+	"id": "WAH87o7AzR6nRFb",
+	"json": "{\"id\":\"WAH87o7AzR6nRFb\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/masque-magistral-hair-mask.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/masque-magistral-hair-mask.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/masque-magistral-hair-mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":60,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:39.114Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/masque-magistral-hair-mask.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/masque-magistral-hair-mask.html"
+}

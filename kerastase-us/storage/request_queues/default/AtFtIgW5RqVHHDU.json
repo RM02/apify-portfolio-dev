@@ -1,0 +1,9 @@
+{
+	"id": "AtFtIgW5RqVHHDU",
+	"json": "{\"id\":\"AtFtIgW5RqVHHDU\",\"url\":\"https://www.kerastase-usa.com/collections/resistance/ciment-anti-usure-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/resistance/ciment-anti-usure-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/resistance/ciment-anti-usure-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":40,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:55.499Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/resistance/ciment-anti-usure-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/resistance/ciment-anti-usure-conditioner.html"
+}

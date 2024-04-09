@@ -1,0 +1,9 @@
+{
+	"id": "vHyNIsrh01r5JMP",
+	"json": "{\"id\":\"vHyNIsrh01r5JMP\",\"url\":\"https://www.kerastase-usa.com/collections/densifique/fondant-densite-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/densifique/fondant-densite-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/densifique/fondant-densite-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:43.100Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/densifique/fondant-densite-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/densifique/fondant-densite-conditioner.html"
+}

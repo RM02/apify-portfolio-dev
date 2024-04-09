@@ -1,0 +1,9 @@
+{
+	"id": "gXziNz3XuKwEKOw",
+	"json": "{\"id\":\"gXziNz3XuKwEKOw\",\"url\":\"https://www.kerastase-usa.com/collections/genesis/genesis-hair-care-set-for-falling-hair.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/genesis/genesis-hair-care-set-for-falling-hair.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/genesis/genesis-hair-care-set-for-falling-hair.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":124,\"stock\":\"backorder\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:28.899Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/genesis/genesis-hair-care-set-for-falling-hair.html",
+	"url": "https://www.kerastase-usa.com/collections/genesis/genesis-hair-care-set-for-falling-hair.html"
+}

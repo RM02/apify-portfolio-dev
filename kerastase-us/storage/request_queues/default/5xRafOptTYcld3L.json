@@ -1,0 +1,9 @@
+{
+	"id": "5xRafOptTYcld3L",
+	"json": "{\"id\":\"5xRafOptTYcld3L\",\"url\":\"https://www.kerastase-usa.com/collections/soleil/creme-uv-sublime-hair-cream.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/soleil/creme-uv-sublime-hair-cream.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/soleil/creme-uv-sublime-hair-cream.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":39,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:22.909Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/soleil/creme-uv-sublime-hair-cream.html",
+	"url": "https://www.kerastase-usa.com/collections/soleil/creme-uv-sublime-hair-cream.html"
+}

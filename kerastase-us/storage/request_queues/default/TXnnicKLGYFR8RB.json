@@ -1,0 +1,9 @@
+{
+	"id": "TXnnicKLGYFR8RB",
+	"json": "{\"id\":\"TXnnicKLGYFR8RB\",\"url\":\"https://www.kerastase-usa.com/collections/curl-manifesto/fondant-hydratation-essentielle-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/curl-manifesto/fondant-hydratation-essentielle-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/curl-manifesto/fondant-hydratation-essentielle-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:57.455Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/curl-manifesto/fondant-hydratation-essentielle-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/curl-manifesto/fondant-hydratation-essentielle-conditioner.html"
+}

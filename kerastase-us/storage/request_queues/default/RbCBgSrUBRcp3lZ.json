@@ -1,0 +1,9 @@
+{
+	"id": "RbCBgSrUBRcp3lZ",
+	"json": "{\"id\":\"RbCBgSrUBRcp3lZ\",\"url\":\"https://www.kerastase-usa.com/collections/elixir-ultime/elixir-ultime-hair-oil-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/elixir-ultime/elixir-ultime-hair-oil-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/elixir-ultime/elixir-ultime-hair-oil-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":134,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:22.816Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/elixir-ultime/elixir-ultime-hair-oil-set.html",
+	"url": "https://www.kerastase-usa.com/collections/elixir-ultime/elixir-ultime-hair-oil-set.html"
+}

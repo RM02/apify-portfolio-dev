@@ -1,0 +1,9 @@
+{
+	"id": "Vpl7W4rHqBKhExy",
+	"json": "{\"id\":\"Vpl7W4rHqBKhExy\",\"url\":\"https://www.kerastase-usa.com/collections/genesis/genesis-oily-weakened-hair-care-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/genesis/genesis-oily-weakened-hair-care-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/genesis/genesis-oily-weakened-hair-care-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":180,\"stock\":\"backorder\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:30.410Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/genesis/genesis-oily-weakened-hair-care-set.html",
+	"url": "https://www.kerastase-usa.com/collections/genesis/genesis-oily-weakened-hair-care-set.html"
+}

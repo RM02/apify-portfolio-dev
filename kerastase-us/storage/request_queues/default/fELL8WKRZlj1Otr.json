@@ -1,0 +1,9 @@
+{
+	"id": "fELL8WKRZlj1Otr",
+	"json": "{\"id\":\"fELL8WKRZlj1Otr\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-leave-in-hair-care-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-leave-in-hair-care-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-leave-in-hair-care-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":144,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:10.073Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/nutritive-leave-in-hair-care-set.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/nutritive-leave-in-hair-care-set.html"
+}

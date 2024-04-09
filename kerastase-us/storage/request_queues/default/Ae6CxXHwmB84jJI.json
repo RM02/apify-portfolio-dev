@@ -1,0 +1,9 @@
+{
+	"id": "Ae6CxXHwmB84jJI",
+	"json": "{\"id\":\"Ae6CxXHwmB84jJI\",\"url\":\"https://www.kerastase-usa.com/collections/discipline/fondant-fluidealiste-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/discipline/fondant-fluidealiste-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/discipline/fondant-fluidealiste-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:57.392Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/discipline/fondant-fluidealiste-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/discipline/fondant-fluidealiste-conditioner.html"
+}

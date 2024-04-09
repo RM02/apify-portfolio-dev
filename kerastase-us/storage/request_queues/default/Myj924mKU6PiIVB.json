@@ -1,0 +1,9 @@
+{
+	"id": "Myj924mKU6PiIVB",
+	"json": "{\"id\":\"Myj924mKU6PiIVB\",\"url\":\"https://www.kerastase-usa.com/collections/soleil/masque-apres-soleil-hair-mask.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/soleil/masque-apres-soleil-hair-mask.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/soleil/masque-apres-soleil-hair-mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":62,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:34.981Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/soleil/masque-apres-soleil-hair-mask.html",
+	"url": "https://www.kerastase-usa.com/collections/soleil/masque-apres-soleil-hair-mask.html"
+}

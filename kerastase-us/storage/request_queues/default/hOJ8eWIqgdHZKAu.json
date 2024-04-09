@@ -1,0 +1,9 @@
+{
+	"id": "hOJ8eWIqgdHZKAu",
+	"json": "{\"id\":\"hOJ8eWIqgdHZKAu\",\"url\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-fresh-affair-dry-shampoo-hair-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-fresh-affair-dry-shampoo-hair-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-fresh-affair-dry-shampoo-hair-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":118,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:30.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-fresh-affair-dry-shampoo-hair-set.html",
+	"url": "https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-fresh-affair-dry-shampoo-hair-set.html"
+}

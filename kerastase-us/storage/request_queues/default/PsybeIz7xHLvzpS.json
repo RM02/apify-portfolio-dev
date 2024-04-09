@@ -1,0 +1,9 @@
+{
+	"id": "PsybeIz7xHLvzpS",
+	"json": "{\"id\":\"PsybeIz7xHLvzpS\",\"url\":\"https://www.kerastase-usa.com/collections/discipline/discipline-oleo-relax-hair-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/discipline/discipline-oleo-relax-hair-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/discipline/discipline-oleo-relax-hair-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"RequestError: read ECONNRESET\\n    at ClientRequest.<anonymous> (/home/cestticom/Escritorio/5tglobal/Alnusoft-ltd/kerastase-us/node_modules/got-cjs/dist/source/core/index.js:800:126)\\n    at Object.onceWrapper (node:events:642:26)\\n    at ClientRequest.emit (node:events:539:35)\\n    at ClientRequest.emit (node:domain:475:12)\\n    at ClientRequest.origin.emit (/home/cestticom/Escritorio/5tglobal/Alnusoft-ltd/kerastase-us/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\\n    at ClientRequest.request.emit (/home/cestticom/Escritorio/5tglobal/Alnusoft-ltd/kerastase-us/node_modules/got-scraping/src/hooks/fix-decompress.ts:90:20)\\n    at emitErrorNT (node:internal/streams/destroy:157:8)\\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)\\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)\\n    at TLSWrap.callbackTrampoline (node:internal/async_hooks:130:17)\"],\"headers\":{},\"userData\":{\"product\":{\"price\":144,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:01.987Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/discipline/discipline-oleo-relax-hair-set.html",
+	"url": "https://www.kerastase-usa.com/collections/discipline/discipline-oleo-relax-hair-set.html"
+}

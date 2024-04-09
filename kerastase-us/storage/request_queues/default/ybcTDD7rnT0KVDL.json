@@ -1,0 +1,9 @@
+{
+	"id": "ybcTDD7rnT0KVDL",
+	"json": "{\"id\":\"ybcTDD7rnT0KVDL\",\"url\":\"https://www.kerastase-usa.com/collections/chroma-absolu/chroma-absolu-frizzy-colored-hair-care-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/chroma-absolu/chroma-absolu-frizzy-colored-hair-care-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/chroma-absolu/chroma-absolu-frizzy-colored-hair-care-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":177,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:51.189Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/chroma-absolu/chroma-absolu-frizzy-colored-hair-care-set.html",
+	"url": "https://www.kerastase-usa.com/collections/chroma-absolu/chroma-absolu-frizzy-colored-hair-care-set.html"
+}

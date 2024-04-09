@@ -1,0 +1,27 @@
+{
+    "title": "Keastase actor",
+    "description": "This is an actor for scraping kerastase site.",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+      "urls": {
+        "title": "Categories of URLs",
+        "type": "array",
+        "description": "A list of products.",
+        "editor": "stringList"
+      },
+      "keyword": {
+        "title": "Keyword",
+        "type": "string",
+        "description": "Keyword to start with.",
+        "editor": "textfield"
+      },
+      "pages": {
+        "title": "Pages",
+        "type": "string",
+        "editor": "textfield",
+        "description": "Web site only handle auto pagination",
+        "prefill": "auto"
+      }
+    }
+}

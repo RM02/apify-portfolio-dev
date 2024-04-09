@@ -1,0 +1,9 @@
+{
+	"id": "1oJjoffNvP0mqM6",
+	"json": "{\"id\":\"1oJjoffNvP0mqM6\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-brittle-and-dry-hair-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-brittle-and-dry-hair-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/nutritive-brittle-and-dry-hair-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":117,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:46.352Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/nutritive-brittle-and-dry-hair-set.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/nutritive-brittle-and-dry-hair-set.html"
+}

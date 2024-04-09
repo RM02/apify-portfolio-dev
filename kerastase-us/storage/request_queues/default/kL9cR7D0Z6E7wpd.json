@@ -1,0 +1,9 @@
+{
+	"id": "kL9cR7D0Z6E7wpd",
+	"json": "{\"id\":\"kL9cR7D0Z6E7wpd\",\"url\":\"https://www.kerastase-usa.com/collections/blond-absolu/cicaflash-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/blond-absolu/cicaflash-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/blond-absolu/cicaflash-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:57.337Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/blond-absolu/cicaflash-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/blond-absolu/cicaflash-conditioner.html"
+}

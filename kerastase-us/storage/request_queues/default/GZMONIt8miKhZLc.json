@@ -1,0 +1,9 @@
+{
+	"id": "GZMONIt8miKhZLc",
+	"json": "{\"id\":\"GZMONIt8miKhZLc\",\"url\":\"https://www.kerastase-usa.com/collections/soleil/soleil-sun-protection-hair-care-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/soleil/soleil-sun-protection-hair-care-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/soleil/soleil-sun-protection-hair-care-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":136,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:33.531Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/soleil/soleil-sun-protection-hair-care-set.html",
+	"url": "https://www.kerastase-usa.com/collections/soleil/soleil-sun-protection-hair-care-set.html"
+}

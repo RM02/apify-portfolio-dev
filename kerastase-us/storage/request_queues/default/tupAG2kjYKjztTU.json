@@ -1,0 +1,9 @@
+{
+	"id": "tupAG2kjYKjztTU",
+	"json": "{\"id\":\"tupAG2kjYKjztTU\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistrale-hair-balm-duo-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistrale-hair-balm-duo-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistrale-hair-balm-duo-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":62,\"stock\":\"out of stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:57.672Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/creme-magistrale-hair-balm-duo-set.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/creme-magistrale-hair-balm-duo-set.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Poso2DLevso9OTn",
+	"json": "{\"id\":\"Poso2DLevso9OTn\",\"url\":\"https://www.kerastase-usa.com/collections/densifique/masque-densite-hair-mask.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/densifique/masque-densite-hair-mask.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/densifique/masque-densite-hair-mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":64,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:39.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/densifique/masque-densite-hair-mask.html",
+	"url": "https://www.kerastase-usa.com/collections/densifique/masque-densite-hair-mask.html"
+}

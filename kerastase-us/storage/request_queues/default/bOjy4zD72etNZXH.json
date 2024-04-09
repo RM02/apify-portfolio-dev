@@ -1,0 +1,9 @@
+{
+	"id": "bOjy4zD72etNZXH",
+	"json": "{\"id\":\"bOjy4zD72etNZXH\",\"url\":\"https://www.kerastase-usa.com/collections/blond-absolu/masque-cicaextreme-hair-mask.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/blond-absolu/masque-cicaextreme-hair-mask.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/blond-absolu/masque-cicaextreme-hair-mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":64,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:04.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/blond-absolu/masque-cicaextreme-hair-mask.html",
+	"url": "https://www.kerastase-usa.com/collections/blond-absolu/masque-cicaextreme-hair-mask.html"
+}

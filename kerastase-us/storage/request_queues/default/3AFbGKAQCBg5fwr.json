@@ -1,0 +1,9 @@
+{
+	"id": "3AFbGKAQCBg5fwr",
+	"json": "{\"id\":\"3AFbGKAQCBg5fwr\",\"url\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistral-hair-balm.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistral-hair-balm.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/nutritive/creme-magistral-hair-balm.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:39.143Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/nutritive/creme-magistral-hair-balm.html",
+	"url": "https://www.kerastase-usa.com/collections/nutritive/creme-magistral-hair-balm.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XEOBuHGPzH3BdTg",
+	"json": "{\"id\":\"XEOBuHGPzH3BdTg\",\"url\":\"https://www.kerastase-usa.com/conditioners?start=18&sz=6\",\"loadedUrl\":\"https://www.kerastase-usa.com/conditioners?start=18&sz=6\",\"uniqueKey\":\"https://www.kerastase-usa.com/conditioners?start=18&sz=6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"LIST\"},\"handledAt\":\"2022-10-01T20:10:08.700Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/conditioners?start=18&sz=6",
+	"url": "https://www.kerastase-usa.com/conditioners?start=18&sz=6"
+}

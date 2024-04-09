@@ -1,0 +1,9 @@
+{
+	"id": "jOIBFIWVv1fsk4I",
+	"json": "{\"id\":\"jOIBFIWVv1fsk4I\",\"url\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-blonde-highlights-hair-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-blonde-highlights-hair-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-blonde-highlights-hair-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":146,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:16.566Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-blonde-highlights-hair-set.html",
+	"url": "https://www.kerastase-usa.com/collections/blond-absolu/blond-absolu-blonde-highlights-hair-set.html"
+}

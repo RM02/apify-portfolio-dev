@@ -1,0 +1,9 @@
+{
+	"id": "ohaXFOsdWsnFX2x",
+	"json": "{\"id\":\"ohaXFOsdWsnFX2x\",\"url\":\"https://www.kerastase-usa.com/collections/resistance/masque-force-architecte-hair-mask.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/resistance/masque-force-architecte-hair-mask.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/resistance/masque-force-architecte-hair-mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":60,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:30.240Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/resistance/masque-force-architecte-hair-mask.html",
+	"url": "https://www.kerastase-usa.com/collections/resistance/masque-force-architecte-hair-mask.html"
+}

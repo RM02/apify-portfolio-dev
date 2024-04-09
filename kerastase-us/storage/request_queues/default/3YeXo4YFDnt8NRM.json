@@ -1,0 +1,9 @@
+{
+	"id": "3YeXo4YFDnt8NRM",
+	"json": "{\"id\":\"3YeXo4YFDnt8NRM\",\"url\":\"https://www.kerastase-usa.com/collections/chroma-absolu/colored-hair-shampoo-hair-mask-duo-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/chroma-absolu/colored-hair-shampoo-hair-mask-duo-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/chroma-absolu/colored-hair-shampoo-hair-mask-duo-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":102,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:12:04.252Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/chroma-absolu/colored-hair-shampoo-hair-mask-duo-set.html",
+	"url": "https://www.kerastase-usa.com/collections/chroma-absolu/colored-hair-shampoo-hair-mask-duo-set.html"
+}

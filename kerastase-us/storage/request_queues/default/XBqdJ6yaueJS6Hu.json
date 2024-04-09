@@ -1,0 +1,9 @@
+{
+	"id": "XBqdJ6yaueJS6Hu",
+	"json": "{\"id\":\"XBqdJ6yaueJS6Hu\",\"url\":\"https://www.kerastase-usa.com/collections/genesis/genesis-dry-weakened-hair-care-set.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/genesis/genesis-dry-weakened-hair-care-set.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/genesis/genesis-dry-weakened-hair-care-set.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":180,\"stock\":\"backorder\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:11:22.831Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/genesis/genesis-dry-weakened-hair-care-set.html",
+	"url": "https://www.kerastase-usa.com/collections/genesis/genesis-dry-weakened-hair-care-set.html"
+}

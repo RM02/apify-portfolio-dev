@@ -1,0 +1,9 @@
+{
+	"id": "eyYCrrkvw8VQycm",
+	"json": "{\"id\":\"eyYCrrkvw8VQycm\",\"url\":\"https://www.kerastase-usa.com/collections/genesis/fondant-renforcateur-conditioner.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/genesis/fondant-renforcateur-conditioner.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/genesis/fondant-renforcateur-conditioner.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":44,\"stock\":\"backorder\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:09:53.158Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/genesis/fondant-renforcateur-conditioner.html",
+	"url": "https://www.kerastase-usa.com/collections/genesis/fondant-renforcateur-conditioner.html"
+}

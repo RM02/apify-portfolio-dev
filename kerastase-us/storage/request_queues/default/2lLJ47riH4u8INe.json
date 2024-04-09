@@ -1,0 +1,9 @@
+{
+	"id": "2lLJ47riH4u8INe",
+	"json": "{\"id\":\"2lLJ47riH4u8INe\",\"url\":\"https://www.kerastase-usa.com/collections/specifique/argile-equilibrante-cleansing-clay.html\",\"loadedUrl\":\"https://www.kerastase-usa.com/collections/specifique/argile-equilibrante-cleansing-clay.html\",\"uniqueKey\":\"https://www.kerastase-usa.com/collections/specifique/argile-equilibrante-cleansing-clay.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"product\":{\"price\":52,\"stock\":\"in stock\"},\"label\":\"DETAIL\"},\"handledAt\":\"2022-10-01T20:10:12.871Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.kerastase-usa.com/collections/specifique/argile-equilibrante-cleansing-clay.html",
+	"url": "https://www.kerastase-usa.com/collections/specifique/argile-equilibrante-cleansing-clay.html"
+}
