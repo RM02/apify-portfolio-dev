@@ -1,0 +1,299 @@
+{
+  "usableSessionsCount": 6,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_tdw4BnAt25",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:58:11.713Z",
+      "createdAt": "2022-09-16T11:08:11.713Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mbyeRLbD9N",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "WHATAP",
+            "value": "z7b16uhgqdbhq4",
+            "expires": "2023-10-21T11:08:13.482Z",
+            "domain": "search.tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.369Z",
+            "lastAccessed": "2022-09-16T11:08:55.369Z"
+          },
+          {
+            "key": "tl_pro_id",
+            "value": "3b7788a7",
+            "expires": "2022-09-16T11:58:55.365Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.375Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "tl_ti",
+            "value": "0991ffe3",
+            "expires": "2022-09-16T11:58:55.365Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.382Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "recent_view_key",
+            "value": "RECENTVIEW%3A0ee54edf-f715-405e-b5ff-d282816822a4",
+            "expires": "2022-10-01T16:08:13.482Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.384Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "tl_p_id",
+            "value": "v01-a63de847-4aa2-429f-a754-b0c603e875511174149947",
+            "expires": "2023-09-16T11:08:13.482Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.385Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "abtype_cookie",
+            "value": "%7B%22v16%22%3A%22B%22%2C%22v18%22%3A%22A%22%2C%22v19%22%3A%22B%22%2C%22v110%22%3A%22B%22%2C%22v111%22%3A%22A%22%2C%22v144%22%3A%22A%22%2C%22v149%22%3A%22A%22%2C%22v150%22%3A%22A%22%2C%22v151%22%3A%22B%22%2C%22v153%22%3A%22A%22%2C%22v160%22%3A%22A%22%2C%22v162%22%3A%22A%22%2C%22v164%22%3A%22A%22%2C%22v165%22%3A%22A%22%2C%22v166%22%3A%22A%22%7D",
+            "expires": "2023-09-16T11:08:13.482Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.386Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "abtype_update_time",
+            "value": "20220916200813",
+            "expires": "2023-09-16T11:08:13.482Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.387Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "tl_web",
+            "value": "%7B%22tl_s_id%22%3A%2246b49017-d5ff-450f-b1a0-21935e78e041%22%2C%22tl_ab%22%3A%7B%22v16%22%3A%22B%22%2C%22v18%22%3A%22A%22%2C%22v19%22%3A%22B%22%2C%22v110%22%3A%22B%22%2C%22v111%22%3A%22A%22%2C%22v144%22%3A%22A%22%2C%22v149%22%3A%22A%22%2C%22v150%22%3A%22A%22%2C%22v151%22%3A%22B%22%2C%22v153%22%3A%22A%22%2C%22v160%22%3A%22A%22%2C%22v162%22%3A%22A%22%2C%22v164%22%3A%22A%22%2C%22v165%22%3A%22A%22%2C%22v166%22%3A%22A%22%7D%7D",
+            "expires": "2022-09-16T11:58:55.366Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.388Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "JSESSIONID",
+            "value": "61498BE5B11BC26438A401DCCFB9E482",
+            "expires": "2022-09-16T11:58:55.366Z",
+            "domain": "search.tmon.co.kr",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.389Z",
+            "lastAccessed": "2022-09-16T11:08:55.389Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1377717465.1663326494",
+            "expires": "2022-12-15T11:08:14.000Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.390Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "_ga_9XET9RH0RC",
+            "value": "GS1.1.1663326494.1.0.1663326494.0.0.0",
+            "expires": "2023-10-21T11:08:14.719Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.391Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.3.1229225603.1663326495",
+            "expires": "2023-10-21T11:08:14.943Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.392Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.3.602709737.1663326495",
+            "expires": "2022-09-17T11:08:14.000Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.393Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.2.1663326508631.286478376",
+            "expires": "2022-12-15T11:08:29.000Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.394Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "cto_bundle",
+            "value": "5IkSrV9GVDNHRkl5d3Q0cCUyQkhEJTJGbDJOaTR6JTJCbkswJTJCUTd5bVNZdkdOYTgydkJOR2F5eGZHODJaOWNxdU8zQjIlMkJyNEtQTGUyS2drNXQlMkJ1UHV2dUY5bDJVJTJGRXIyb3NEYkYxWkJBdWd5bTRJWVByVm42VW04ZmlxbGVJRnQ5NXo5aU05d0VibWllZnlQVlZzUTJCRUVGRXlFQWRXZyUzRCUzRA",
+            "expires": "2023-10-16T21:08:37.000Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.396Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "refererURL",
+            "value": "http%3A%2F%2Fsearch.tmon.co.kr%2Fsearch%2F%3Fkeyword%3D%25EC%2594%25A8%25ED%258B%25B0%25EC%25BC%2580%25EC%259D%25B4%25EC%259D%25B4%25EB%25B9%2584%25EC%25A0%2584%25EC%2584%25B8%25EC%259D%25BC%25EC%25A6%2588%25EB%259E%25A9%26thr%3Dhs%26sortType%3DREVIEW%26page%3D1",
+            "expires": "2022-09-17T11:08:41.000Z",
+            "domain": "tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.397Z",
+            "lastAccessed": "2022-09-16T11:09:01.877Z"
+          },
+          {
+            "key": "wcs_bt",
+            "value": "s_1a7f4dd73489:1663326521",
+            "expires": "2023-10-21T11:08:41.590Z",
+            "domain": "search.tmon.co.kr",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-16T11:08:55.397Z",
+            "lastAccessed": "2022-09-16T11:08:55.397Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:58:11.718Z",
+      "createdAt": "2022-09-16T11:08:11.718Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_4SXXXiPW3H",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:58:55.602Z",
+      "createdAt": "2022-09-16T11:08:55.602Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_1iTosnbOfA",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:58:55.609Z",
+      "createdAt": "2022-09-16T11:08:55.609Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BykKoDrHJl",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:58:55.614Z",
+      "createdAt": "2022-09-16T11:08:55.614Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_t13MfrU6fT",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-16T11:59:01.820Z",
+      "createdAt": "2022-09-16T11:09:01.820Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

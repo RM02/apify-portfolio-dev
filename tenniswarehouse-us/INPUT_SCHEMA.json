@@ -1,0 +1,44 @@
+{
+  "title": "PuppeteerCrawler Template",
+  "description": "lorem ipsum",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "listingPages": {
+      "title": "Listing URLs",
+      "type": "array",
+      "description": "A list of pages to start with.",
+      "editor": "requestListSources",
+      "prefill": [
+        { "url": "https://apify.com" }
+      ]
+    },
+    "detailUrls": {
+        "title": "list of detail URLs",
+        "type": "array",
+        "description": "A list of detail urls.",
+        "editor": "requestListSources",
+        "prefill": [
+          { "url": "https://apify.com" }
+        ]
+      },
+    "keyword": {
+        "title": "Search Keyword",
+        "type": "string",
+        "description": "Keyword that you want to search",
+        "editor": "textfield"
+    },
+    "category": {
+        "title": "Search Category",
+        "type": "string",
+        "description": "Category that you want to search",
+        "editor": "textfield"
+    },
+    "pages": {
+        "title": "Pages",
+        "type": "string",
+        "description": "Pages for search. 1-5 for sequential usage and 1,5,6 for single usage",
+        "editor": "textfield"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Tmon actor",
+    "description": "This is an actor for scraping Tmon site.",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+      "urls": {
+        "title": "Listing product",
+        "type": "array",
+        "description": "A list of products to be extracted.",
+        "editor": "stringList"
+      }
+    }
+}
