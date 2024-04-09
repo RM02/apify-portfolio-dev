@@ -1,0 +1,26 @@
+{
+  "title": "PuppeteerCrawler Template",
+  "description": "Omielife actor",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "urls": {
+        "title": "Start URLs",
+        "type": "array",
+        "description": "URLs to start with.",
+        "editor": "requestListSources"
+    },
+    "keyword": {
+        "title": "Search Keyword",
+        "type": "string",
+        "description": "Keyword that you want to search",
+        "editor": "textfield"
+    },
+    "pages": {
+        "title": "Pages",
+        "type": "string",
+        "description": "Pages for search. 1-5 for sequential usage and 1,5,6 for single usage",
+        "editor": "textfield"
+    }
+  }
+}
