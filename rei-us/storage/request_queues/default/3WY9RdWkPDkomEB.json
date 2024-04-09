@@ -1,0 +1,9 @@
+{
+	"id": "3WY9RdWkPDkomEB",
+	"json": "{\"id\":\"3WY9RdWkPDkomEB\",\"url\":\"https://www.rei.com/rei-garage/product/208970/adidas-terrex-agravic-ultra-trail-running-shoes-womens\",\"loadedUrl\":\"https://www.rei.com/rei-garage/product/208970/adidas-terrex-agravic-ultra-trail-running-shoes-womens\",\"uniqueKey\":\"https://www.rei.com/rei-garage/product/208970/adidas-terrex-agravic-ultra-trail-running-shoes-womens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"pages\":\"1-1\",\"label\":\"handleDetail\"},\"handledAt\":\"2022-10-13T17:50:49.404Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.rei.com/rei-garage/product/208970/adidas-terrex-agravic-ultra-trail-running-shoes-womens",
+	"url": "https://www.rei.com/rei-garage/product/208970/adidas-terrex-agravic-ultra-trail-running-shoes-womens"
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Rei actor",
+    "description": "This is an actor for scraping Rei site.",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+      "startUrls": {
+        "title": "Start URL - URLs to start with",
+        "type": "array",
+        "description": "Start URL - URLs to start with",
+        "editor": "stringList"
+      },
+      "categoriesUrls": {
+        "title": "Categories URLs - Categories URLs to start with.",
+        "type": "array",
+        "description": "Categories URLs - Categories URLs to start with.",
+        "editor": "stringList"
+      },
+      "detailUrls": {
+        "title": "Detail URLs URL to direct products.",
+        "type": "array",
+        "description": "A list of products.",
+        "editor": "stringList"
+      },
+      "keyword": {
+        "title": "Search Keyword",
+        "type": "string",
+        "description": "Keyword to start with.",
+        "editor": "textfield"
+      },
+      "pages": {
+        "title": "Pages",
+        "type": "string",
+        "editor": "textfield",
+        "description": "Pages 1-1 or auto"
+      }
+    }
+}

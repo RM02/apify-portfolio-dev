@@ -1,0 +1,815 @@
+{
+	"ItemUrl": "https://www.rei.com/product/145906/salomon-speedcross-5-trail-running-shoes-mens",
+	"ItemTitle": "  Salomon Speedcross 5 Trail-Running Shoes - Men's",
+	"BrandName": "Salomon",
+	"ItemCode": "145906",
+	"ItemPrice": "130.00",
+	"ItemRetailPrice": "130.00",
+	"ItemStatus": "On Sale",
+	"ItemQty": "20",
+	"ShippingInfo": "",
+	"ItemOption": {
+		"Color": "BLACK/BLACK/PHANTOM,CRYSTAL BLUE/BARRIER REEF/OAK,GRAPE LEAF/BLACK/PHANTOM,HAWAIIAN OCEAN/STORMY WEATHER,MAGNET/BLACK/PHANTOM,SKY DIVER/BLACK/WHITE,TROOPER/SLATE/GREEN GECKO,WHITE/WHITE/CHERRY TOMATO",
+		"Size": "7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,14,8 Wide,8.5 Wide"
+	},
+	"ItemOptionData": [
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "BLACK/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "CRYSTAL BLUE/BARRIER REEF/OAK",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "GRAPE LEAF/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "HAWAIIAN OCEAN/STORMY WEATHER",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "MAGNET/BLACK/PHANTOM",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "SKY DIVER/BLACK/WHITE",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "TROOPER/SLATE/GREEN GECKO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "7.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "9",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "9.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "10.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "11.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "12.5",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "13",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "14",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": true
+		},
+		{
+			"price": "130.00",
+			"size": "8 Wide",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		},
+		{
+			"price": "130.00",
+			"size": "8.5 Wide",
+			"color": "WHITE/WHITE/CHERRY TOMATO",
+			"availability": false
+		}
+	],
+	"StandardImage": "https://rei.com/media/caeab471-dbe4-406b-ad84-9535ac74b46f?size=784x588",
+	"OtherImages": [
+		"https://rei.com/media/4bfc5752-5aed-42a0-84c8-9600c6365d8e?size=784x588",
+		"https://rei.com/media/176e5a91-3ab3-4a11-b866-932214bda729?size=784x588",
+		"https://rei.com/media/b313c275-d4f3-47cb-aa13-aa1156ea75af?size=784x588",
+		"https://rei.com/media/be1d3568-1182-4092-8f8c-8761e958f68f?size=784x588",
+		"https://rei.com/media/3e773aa6-bed0-4b6e-8c02-96f072d457a7?size=784x588",
+		"https://rei.com/media/781f6be0-5f6a-43e6-97ac-81c9bb778e37?size=784x588",
+		"https://rei.com/media/90f72a40-308d-49e6-a8b4-b8bb6a58a300?size=784x588",
+		"https://rei.com/media/4d01d2c7-b9ac-4a27-a509-c2281c285494?size=784x588",
+		"https://rei.com/media/0bfa5b06-f303-4ffb-b425-2f753e30d736?size=784x588",
+		"https://rei.com/media/634b18ea-7ad7-4e84-be24-922fed470553?size=784x588",
+		"https://rei.com/media/ed611481-2c10-4ce9-88a2-9353b9c12fb3?size=784x588",
+		"https://rei.com/media/fa325a7b-1d0f-427c-90f9-11f7bdb3d13a?size=784x588",
+		"https://rei.com/media/06c420b6-2a1a-4582-8559-5ebdadb8923a?size=784x588"
+	],
+	"ItemDescription": "<p class=\"product-description__text\" data-v-54eeb88f=\"\">    Even more grip. Even more stability. Even more dynamic uppers. The Salomon Speedcross 5 trail-running shoes for men take rugged off-road performance to another level.  </p>,<div class=\"featured-specs__item\" data-v-14790a18=\"\"><div class=\"featured-specs__name\" data-v-14790a18=\"\">      Trail-Running Shoe Type    </div> <div class=\"featured-specs__values\" data-v-14790a18=\"\">      Rugged-Trail    </div></div><div class=\"featured-specs__item\" data-v-14790a18=\"\"><div class=\"featured-specs__name\" data-v-14790a18=\"\">      Heel-to-Toe Drop (mm)    </div> <div class=\"featured-specs__values\" data-v-14790a18=\"\">      10    </div></div><div class=\"featured-specs__item\" data-v-14790a18=\"\"><div class=\"featured-specs__name\" data-v-14790a18=\"\">      Running Shoe Cushioning    </div> <div class=\"featured-specs__values\" data-v-14790a18=\"\">      Moderate Cushion    </div></div>,<h2 class=\"cdr-accordion__header--unwrapped_11-3-1\"><div id=\"features\" class=\"js-cdr-accordion-button\"><span id=\"features-label\" class=\"cdr-accordion__label_11-3-1\"><span class=\"below-the-fold__header\" data-v-76b8c9c8=\"\">        Features      </span></span></div></h2><div class=\"cdr-accordion__content-container_11-3-1 open\" style=\"max-height:none;\"><div id=\"features-collapsible\" class=\"cdr-accordion__content_11-3-1 open cdr-accordion--unwrap_11-3-1\"> <section aria-labelledby=\"features-label\" class=\"product-features\" data-v-2a8f4a34=\"\" data-v-76b8c9c8=\"\"><ul data-ui=\"product-features-list\" class=\"product-features__list cdr-list_11-3-1 cdr-list--unordered_11-3-1\" data-v-2a8f4a34=\"\"><li data-v-2a8f4a34=\"\">      Heel units create cradles for heels, ensuring clean foot strike and stability through the stride    </li><li data-v-2a8f4a34=\"\">      Completely welded uppers with dissociated SensiFit™ arms move naturally with feet; SensiFit cradles feet from midsoles to laces, providing a secure and snug fit    </li><li data-v-2a8f4a34=\"\">      Contagrip® rubber outsoles use deep, sharp lugs made from a compound that balances durability and adhesion for maximum grip on loose, soft or rugged and uneven surfaces    </li><li data-v-2a8f4a34=\"\">      EnergyCell™+ high-rebound midsoles provide exceptional energy return along with substantial cushioning and durability    </li><li data-v-2a8f4a34=\"\">      Removable OrthoLite® footbeds add shock absorption; antimicrobial treatment helps deter odors    </li><li data-v-2a8f4a34=\"\">      Quicklace system ensures a secure and customized fit: just pull, lock the toggle and go; pockets on tongues store laces out of the way    </li><li data-v-2a8f4a34=\"\">      Protective toe caps guard against bumps and abrasion    </li></ul> <p data-ui=\"product-origin\" class=\"product-features__origin\" data-v-2a8f4a34=\"\">    Imported.  </p> <!----> <!---->  </section></div></div>,<h2 class=\"cdr-accordion__header--unwrapped_11-3-1\"><div id=\"tech-specs\" class=\"js-cdr-accordion-button\"><span id=\"tech-specs-label\" class=\"cdr-accordion__label_11-3-1\"><span class=\"below-the-fold__header\" data-v-76b8c9c8=\"\">        Technical Specs      </span></span></div></h2><div class=\"cdr-accordion__content-container_11-3-1 open\" style=\"max-height:none;\"><div id=\"tech-specs-collapsible\" class=\"cdr-accordion__content_11-3-1 open cdr-accordion--unwrap_11-3-1\"> <table aria-labelledby=\"tech-specs-label\" class=\"tech-specs\" data-v-4814ce80=\"\" data-v-76b8c9c8=\"\"><tbody data-v-4814ce80=\"\"><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Best Use      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Trail Running        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Trail-Running Shoe Type      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Rugged-Trail        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Running Shoe Cushioning      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Moderate Cushion        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Heel-to-Toe Drop (mm)      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          10        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Heel Stack Height (mm)      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          35        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Forefoot Stack Height (mm)      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          25        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Footwear Height      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Ankle        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Footwear Closure      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Single-pull Lace        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Upper      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Nylon mesh/welded synthetic overlays        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Midsole      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Injected EVA        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Outsole      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Contagrip rubber        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Weight (Pair)      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          1 lb. 7.2 oz.        </p></td></tr><tr class=\"tech-specs__row\" data-v-4814ce80=\"\"><th class=\"tech-specs__header\" data-v-4814ce80=\"\">        Gender      </th> <td class=\"tech-specs__cell\" data-v-4814ce80=\"\"><p class=\"tech-specs__value\" data-v-4814ce80=\"\">          Men's        </p></td></tr></tbody></table></div></div>",
+	"UPCCode": "",
+	"ISBNCode": "",
+	"ItemExpiredate": "",
+	"ItemMaterial": "",
+	"ItemModelNo": "",
+	"ItemMFGdate": "",
+	"ItemOrigin": "",
+	"ItemSize": "",
+	"ItemWeight": [
+		12
+	],
+	"Memo": "",
+	"Category": "Footwear, / Men's Footwear, / Men's Shoes, / Men's Running Shoes, / Men's Trail-Running Shoes"
+}

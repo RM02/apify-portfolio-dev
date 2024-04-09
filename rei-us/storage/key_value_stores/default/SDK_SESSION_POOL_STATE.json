@@ -1,0 +1,438 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_rPyqXr7K5w",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-10-05T12:07:36.517Z",
+      "createdAt": "2022-10-05T11:17:36.517Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_WKdBuIRtXS",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "akamai_session",
+            "value": "23.50.116.163.254741664968658246",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.068Z",
+            "lastAccessed": "2022-10-05T11:18:06.068Z"
+          },
+          {
+            "key": "EdgeLocation",
+            "value": "10.50,-66.92",
+            "expires": "2022-10-06T11:17:38.381Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.076Z",
+            "lastAccessed": "2022-10-05T11:18:06.076Z"
+          },
+          {
+            "key": "akaas_CorePDP",
+            "value": "1667560658~rv=73~id=f80792789aae3e1447fd7c4a3bc9e643~rn=",
+            "expires": "2022-11-04T11:17:38.381Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.077Z",
+            "lastAccessed": "2022-10-05T11:18:06.077Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "D4820658A347E9E2095351DDBB87DD04~YAAQo3QyF6glwaODAQAARo3dpxG0Dl18IWjHZmG+gL0QrI4+zWyjqEjZ3fDIfZUViXFXrSXFOjziLhhfIZBzRkXQY6HmtiPOS1MWZsG365lY78ZEppm51Ow2OHep9qAkDgHb+EYN2XWLCOUhA1vkiN6mGg9vO7mn9q1h17WJiUpKGvYuZgmMdpW00TXjW1Eqoa2BmdPNQOsfoZEXiWi5UzwdHvTN4ylOY2a8236byNkpBMky1OO+2YIhUmnyTUp/w0XHw9FoWMB8nLh95U0yx9IsDZEnhaPNnaLpwJHicrE=~3158083~4602182",
+            "expires": "2022-10-05T15:17:38.382Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.079Z",
+            "lastAccessed": "2022-10-05T11:18:06.079Z"
+          },
+          {
+            "key": "akacd_RWASP-default-phased-release",
+            "value": "3842421457~rv=54~id=7129b29f00ae5aa49212a606aeaabde6",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.081Z",
+            "lastAccessed": "2022-10-05T11:18:06.081Z"
+          },
+          {
+            "key": "check",
+            "value": "true",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.082Z",
+            "lastAccessed": "2022-10-05T11:18:06.082Z"
+          },
+          {
+            "key": "REI_DEVICE_ID",
+            "value": "4077969f7ec317f95ce6d5784c370c6f|0eeaee11c5c96d2c6333e432b9dd5545ba83183d5e5e7bc8e8471db93282c195",
+            "expires": "2023-10-05T11:17:42.276Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.085Z",
+            "lastAccessed": "2022-10-05T11:18:06.085Z"
+          },
+          {
+            "key": "AMCVS_F0A65E09512D2C440A490D4D%40AdobeOrg",
+            "value": "1",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.087Z",
+            "lastAccessed": "2022-10-05T11:18:06.087Z"
+          },
+          {
+            "key": "ak_bmsc",
+            "value": "6F7C5B6EEC6449099E286072F1BC1F9E~000000000000000000000000000000~YAAQo3QyF4kmwaODAQAAw5fdpxEY0BoVL9OfM8l5kjzcophMNzrvBrdlOybrV8oitdRqN+O6HE/z2rs8XdhAvlaOUZ8coZ0m28LLYm7TV4OGnKrf7x/ljdXNN4Gg7lwXqtb21E1oYueZlqC3EXm0fm99XkOLWZGxb1Fte67hioO6i3Carq07oFGjKiR9SrBkdeVUH1hG0UkkSKr4MZqkHQpZB2/ewlovNj08DnIl+CjH8pyb0d2Qfvc6crseS//LiG0UsxOsVSpiDL4t0LsjNt80+eIMHrFlW9BpeB6xn44HyuEYCcCJtNogE1t+VnYsksHDnz7H6aVjVhccPWXllgq++Eyz5U/DRCT+ARx/3OHKYkCo/B8epe+29fu3gf0lfwhPs+d2d3CLXFOxOwrpJH/BVnBui97+pXl2rzK2KJL3+imp7IPjFsFHK3MT602RN6YFdaeGTdzvw8q5465a6PCy5K/nANexzjc1",
+            "expires": "2022-10-05T13:17:39.228Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.087Z",
+            "lastAccessed": "2022-10-05T11:18:06.087Z"
+          },
+          {
+            "key": "s_ecid",
+            "value": "MCMID%7C86686903823290010873369898271005742831",
+            "expires": "2023-11-09T11:17:47.321Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.088Z",
+            "lastAccessed": "2022-10-05T11:18:06.088Z"
+          },
+          {
+            "key": "bm_sv",
+            "value": "F1B1747F200DDC9400CAF89573491916~YAAQo3QyF+gmwaODAQAAg5zdpxE59aQ86YcnZnkDTzGC5N8SqYEY8yH2kDB6V6QmcgZNFpqOdUX/J3Ld/T6yUEbs5RU8lMHJPaO9pUGXP23VIrdtsmrLY3OSTu3EdSDcJfmKaw0og12yu9EpnYnuBviW8Zzp1sHH8ecO7gjXqw+Jsrsix8drOaRZ2/XzXM81l8p+PBx2RlV59o3DIR/r4WFqDtp/V1Gv52yEOzFk/qI75jayKJ8bkyzvJSXb~1",
+            "expires": "2022-10-05T13:17:40.277Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.089Z",
+            "lastAccessed": "2022-10-05T11:18:06.089Z"
+          },
+          {
+            "key": "mbox",
+            "value": "session#2ee597970fe342c69f0529ba6c584f5c#1664970520|PC#2ee597970fe342c69f0529ba6c584f5c.34_0#1728213463",
+            "expires": "2023-11-09T11:17:42.686Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.090Z",
+            "lastAccessed": "2022-10-05T11:18:06.090Z"
+          },
+          {
+            "key": "mboxEdgeCluster",
+            "value": "34",
+            "expires": "2022-10-05T11:48:42.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.090Z",
+            "lastAccessed": "2022-10-05T11:18:06.090Z"
+          },
+          {
+            "key": "utag_main",
+            "value": "v_id:0183a7dda6b00017d95acf1a181b01065005005d00bd0$_sn:1$_ss:1$_st:1664970464754$ses_id:1664968664754%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:rei.com$_prevpage:rei%3Aproduct%20details%3ASpeedcross%205%20Trail-Running%20Shoes%20-%20Men's_145906%3Bexp-1664972265128$_prevtemp:prod_page%3Bexp-1664972265129",
+            "expires": "2023-10-05T11:17:45.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.093Z",
+            "lastAccessed": "2022-10-05T11:18:06.093Z"
+          },
+          {
+            "key": "s_ips",
+            "value": "1080",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.094Z",
+            "lastAccessed": "2022-10-05T11:18:06.094Z"
+          },
+          {
+            "key": "s_nr",
+            "value": "1664968665139-New",
+            "expires": "2022-11-04T11:17:45.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.095Z",
+            "lastAccessed": "2022-10-05T11:18:06.095Z"
+          },
+          {
+            "key": "s_vnum",
+            "value": "1822648665140%26vn%3D1",
+            "expires": "2023-11-09T11:17:45.141Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.095Z",
+            "lastAccessed": "2022-10-05T11:18:06.095Z"
+          },
+          {
+            "key": "s_invisit",
+            "value": "true",
+            "expires": "2022-10-05T11:47:45.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.096Z",
+            "lastAccessed": "2022-10-05T11:18:06.096Z"
+          },
+          {
+            "key": "qualtricsSwimlaneCookie",
+            "value": "35",
+            "expires": "2023-11-09T11:17:45.152Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.097Z",
+            "lastAccessed": "2022-10-05T11:18:06.097Z"
+          },
+          {
+            "key": "s_cc",
+            "value": "true",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.098Z",
+            "lastAccessed": "2022-10-05T11:18:06.098Z"
+          },
+          {
+            "key": "_abck",
+            "value": "CDC6416DE82C11931F88F703B0227DDB~-1~YAAQo3QyF6wnwaODAQAAY6ndpwjOVYGMuraMcr8y4tZu7aSb5Ii86uISxJaARoqmWudwjdQxrfjZ8NSXsID6FtWlwBXYPBAIzKjdsMXyorN7NSGIX9Ld2s9ny30tAumsAAW3TT2eWFxW1qCOOtTr1/XlVjLI4ATCLHX5P4kKEgZeji310Q1f08BEqyk++9/HijQ2zjFwUIdTTCrgRDInrcy3Dt//qAJQ1D6ZNncVCA7GTJR6EIAtyUhHnsIDgeiLxgCSMDLdX3qeQQo03YsoIxnqfEG+OTqAnzAY60dH7cBl4PbEtlZKRQhy9+R611ii87/CUN5bUH8xNvWErfGkl7fX58/YGc3c6wS83RWvB572BgAjsHcZ0Z+4Qfns3maL1nSCshn0~-1~||-1||~1664972260",
+            "expires": "2023-10-05T11:17:45.547Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.099Z",
+            "lastAccessed": "2022-10-05T11:18:06.099Z"
+          },
+          {
+            "key": "_caid",
+            "value": "2ea703ab-ded9-44ca-8f1e-74ce70b2bad7",
+            "expires": "2022-11-04T11:17:46.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.100Z",
+            "lastAccessed": "2022-10-05T11:18:06.100Z"
+          },
+          {
+            "key": "_cavisit",
+            "value": "183a7ddac25|",
+            "expires": "2022-10-05T12:17:46.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.100Z",
+            "lastAccessed": "2022-10-05T11:18:06.100Z"
+          },
+          {
+            "key": "_mibhv",
+            "value": "anon-1664968667006-3175196745_5274",
+            "expires": "2023-10-05T11:17:47.000Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.101Z",
+            "lastAccessed": "2022-10-05T11:18:06.101Z"
+          },
+          {
+            "key": "AMCV_F0A65E09512D2C440A490D4D%40AdobeOrg",
+            "value": "1585540135%7CMCIDTS%7C19271%7CMCMID%7C86686903823290010873369898271005742831%7CMCAAMLH-1665573460%7C4%7CMCAAMB-1665573460%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1664975861s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19278%7CvVersion%7C4.4.0",
+            "expires": "2023-11-09T11:17:47.021Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.102Z",
+            "lastAccessed": "2022-10-05T11:18:06.102Z"
+          },
+          {
+            "key": "AAM",
+            "value": "AAM%3D17802662%2C17811395",
+            "expires": "2022-11-04T11:17:47.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.103Z",
+            "lastAccessed": "2022-10-05T11:18:06.103Z"
+          },
+          {
+            "key": "aam_uuid",
+            "value": "86544110792261818883356222273302031248",
+            "expires": "2022-11-04T11:17:47.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.104Z",
+            "lastAccessed": "2022-10-05T11:18:06.104Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.237272354.1664968668",
+            "expires": "2023-01-03T11:17:47.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.104Z",
+            "lastAccessed": "2022-10-05T11:18:06.104Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.1.1664968668279.649294009",
+            "expires": "2023-01-03T11:17:48.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.106Z",
+            "lastAccessed": "2022-10-05T11:18:06.106Z"
+          },
+          {
+            "key": "mp_rei_us_mixpanel",
+            "value": "%7B%22distinct_id%22%3A%20%22183a7ddb4c052-012e7fb6cbf7e2-16462c6d-1fa400-183a7ddb4c1550%22%2C%22bc_persist_updated%22%3A%201664968668355%7D",
+            "expires": "2023-10-05T11:17:48.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.106Z",
+            "lastAccessed": "2022-10-05T11:18:06.106Z"
+          },
+          {
+            "key": "_scid",
+            "value": "98638a38-f80c-4b76-8171-86103039376d",
+            "expires": "2023-11-05T03:36:06.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.107Z",
+            "lastAccessed": "2022-10-05T11:18:06.107Z"
+          },
+          {
+            "key": "rr_rcs",
+            "value": "eF5jYSlN9rA0sUhNtrQw1jUwSzbRNUm2NNQ1TLNM0k02NzNItUwzNzY2MOTKLSvJTBEwNDQ31gVKAwCM3w3m",
+            "expires": "2023-11-09T11:17:49.098Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.114Z",
+            "lastAccessed": "2022-10-05T11:18:06.114Z"
+          },
+          {
+            "key": "avmws",
+            "value": "1.1768784843633d67dd432d9974181970.26390941.1664968669.1664968669.1.2572736597",
+            "expires": "2023-11-09T11:17:49.437Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.114Z",
+            "lastAccessed": "2022-10-05T11:18:06.114Z"
+          },
+          {
+            "key": "BVImplmain_site",
+            "value": "15372",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "www.rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.117Z",
+            "lastAccessed": "2022-10-05T11:18:06.117Z"
+          },
+          {
+            "key": "BVBRANDID",
+            "value": "0f9cc01c-a371-4f2d-93ee-083900cd213e",
+            "expires": "2023-10-05T11:17:59.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.118Z",
+            "lastAccessed": "2022-10-05T11:18:06.118Z"
+          },
+          {
+            "key": "BVBRANDSID",
+            "value": "40acd38e-1a56-4000-a984-b3bf02d6f9e1",
+            "expires": "2022-10-05T11:47:59.000Z",
+            "domain": "rei.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.118Z",
+            "lastAccessed": "2022-10-05T11:18:06.118Z"
+          },
+          {
+            "key": "s_tp",
+            "value": "15580",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.119Z",
+            "lastAccessed": "2022-10-05T11:18:06.119Z"
+          },
+          {
+            "key": "s_ppv",
+            "value": "rei%253Aproduct%2520details%253ASpeedcross%25205%2520Trail-Running%2520Shoes%2520-%2520Men%2527s_145906%2C7%2C7%2C1080%2C1%2C14",
+            "expires": "2022-10-05T12:08:06.060Z",
+            "domain": "rei.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-10-05T11:18:06.120Z",
+            "lastAccessed": "2022-10-05T11:18:06.120Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-10-05T12:07:36.523Z",
+      "createdAt": "2022-10-05T11:17:36.523Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
