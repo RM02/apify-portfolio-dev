@@ -1,0 +1,9 @@
+{
+	"id": "ZxTasbcVE8SgUFU",
+	"json": "{\"id\":\"ZxTasbcVE8SgUFU\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9351809299\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9351809299\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250758,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9351809299",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9351809299"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CZUpTVfU7M2qd0S",
+	"json": "{\"id\":\"CZUpTVfU7M2qd0S\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8683908046\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8683908046\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250749,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8683908046",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8683908046"
+}

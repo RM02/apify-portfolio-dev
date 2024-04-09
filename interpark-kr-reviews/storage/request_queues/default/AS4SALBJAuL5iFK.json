@@ -1,0 +1,9 @@
+{
+	"id": "AS4SALBJAuL5iFK",
+	"json": "{\"id\":\"AS4SALBJAuL5iFK\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9591532910\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9591532910\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250673,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9591532910",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9591532910"
+}

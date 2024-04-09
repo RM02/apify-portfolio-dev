@@ -1,0 +1,9 @@
+{
+	"id": "TDTY66As3H3UrXV",
+	"json": "{\"id\":\"TDTY66As3H3UrXV\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8177066945\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8177066945\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250713,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8177066945",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8177066945"
+}

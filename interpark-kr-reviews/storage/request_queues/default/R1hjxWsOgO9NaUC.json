@@ -1,0 +1,9 @@
+{
+	"id": "R1hjxWsOgO9NaUC",
+	"json": "{\"id\":\"R1hjxWsOgO9NaUC\",\"url\":\"https://store.interpark.com/shopdelmar/category/all\",\"loadedUrl\":\"https://store.interpark.com/shopdelmar/category/all\",\"uniqueKey\":\"https://store.interpark.com/shopdelmar/category/all\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleList\"},\"handledAt\":\"2022-09-21T11:20:50.827Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://store.interpark.com/shopdelmar/category/all",
+	"url": "https://store.interpark.com/shopdelmar/category/all"
+}

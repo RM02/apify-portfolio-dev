@@ -1,0 +1,9 @@
+{
+	"id": "NuCR0697GAXAGKu",
+	"json": "{\"id\":\"NuCR0697GAXAGKu\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7985747798\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7985747798\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250712,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=7985747798",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=7985747798"
+}

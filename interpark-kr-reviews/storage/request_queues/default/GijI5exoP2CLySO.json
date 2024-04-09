@@ -1,0 +1,9 @@
+{
+	"id": "GijI5exoP2CLySO",
+	"json": "{\"id\":\"GijI5exoP2CLySO\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8467161652\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8467161652\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250726,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8467161652",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8467161652"
+}

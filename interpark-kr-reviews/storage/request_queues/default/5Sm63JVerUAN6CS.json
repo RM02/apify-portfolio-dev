@@ -1,0 +1,9 @@
+{
+	"id": "5Sm63JVerUAN6CS",
+	"json": "{\"id\":\"5Sm63JVerUAN6CS\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9292171022\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9292171022\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250733,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9292171022",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9292171022"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GChde96dld694OW",
+	"json": "{\"id\":\"GChde96dld694OW\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9838091429\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9838091429\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250753,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9838091429",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9838091429"
+}

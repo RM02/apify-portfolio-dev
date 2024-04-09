@@ -1,0 +1,9 @@
+{
+	"id": "Ksf65YDx2vc0Chr",
+	"json": "{\"id\":\"Ksf65YDx2vc0Chr\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=5541170821\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=5541170821\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250711,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=5541170821",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=5541170821"
+}

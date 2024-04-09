@@ -1,0 +1,9 @@
+{
+	"id": "zITgM27MXKlAdCH",
+	"json": "{\"id\":\"zITgM27MXKlAdCH\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8155707524\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8155707524\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250743,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8155707524",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8155707524"
+}

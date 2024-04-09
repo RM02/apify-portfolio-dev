@@ -1,0 +1,9 @@
+{
+	"id": "Ct22unzD3VoNe8U",
+	"json": "{\"id\":\"Ct22unzD3VoNe8U\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9468558955\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9468558955\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250784,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9468558955",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9468558955"
+}

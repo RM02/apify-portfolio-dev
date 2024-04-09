@@ -1,0 +1,9 @@
+{
+	"id": "CIQBtP5rB7Kl5jm",
+	"json": "{\"id\":\"CIQBtP5rB7Kl5jm\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9217439307\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9217439307\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250787,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9217439307",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9217439307"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fTWZvIKxNVlg55l",
+	"json": "{\"id\":\"fTWZvIKxNVlg55l\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9368488340\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9368488340\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250740,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9368488340",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9368488340"
+}

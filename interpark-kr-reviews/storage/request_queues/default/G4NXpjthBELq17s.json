@@ -1,0 +1,9 @@
+{
+	"id": "G4NXpjthBELq17s",
+	"json": "{\"id\":\"G4NXpjthBELq17s\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8718249778\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8718249778\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250682,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8718249778",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8718249778"
+}

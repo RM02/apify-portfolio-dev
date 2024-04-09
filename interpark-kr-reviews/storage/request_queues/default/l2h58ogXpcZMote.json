@@ -1,0 +1,9 @@
+{
+	"id": "l2h58ogXpcZMote",
+	"json": "{\"id\":\"l2h58ogXpcZMote\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=6453512291\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=6453512291\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250705,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=6453512291",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=6453512291"
+}

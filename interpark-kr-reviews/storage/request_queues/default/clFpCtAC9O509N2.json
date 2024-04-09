@@ -1,0 +1,9 @@
+{
+	"id": "clFpCtAC9O509N2",
+	"json": "{\"id\":\"clFpCtAC9O509N2\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9190889051\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9190889051\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250756,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9190889051",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9190889051"
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Interpark actor",
+    "description": "This is an actor for scraping Interpark site.",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+      "listingPages": {
+        "title": "List of URLs",
+        "type": "array",
+        "description": "A list of products to be extracted.",
+        "editor": "stringList"
+      }
+    }
+}

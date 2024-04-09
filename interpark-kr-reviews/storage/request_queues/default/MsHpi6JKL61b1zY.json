@@ -1,0 +1,9 @@
+{
+	"id": "MsHpi6JKL61b1zY",
+	"json": "{\"id\":\"MsHpi6JKL61b1zY\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7355848480\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7355848480\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250750,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=7355848480",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=7355848480"
+}

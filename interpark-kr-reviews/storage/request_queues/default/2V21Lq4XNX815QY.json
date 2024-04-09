@@ -1,0 +1,9 @@
+{
+	"id": "2V21Lq4XNX815QY",
+	"json": "{\"id\":\"2V21Lq4XNX815QY\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9514629233\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9514629233\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250706,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9514629233",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9514629233"
+}

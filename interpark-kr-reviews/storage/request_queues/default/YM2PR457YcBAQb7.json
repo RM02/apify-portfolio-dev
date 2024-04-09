@@ -1,0 +1,9 @@
+{
+	"id": "YM2PR457YcBAQb7",
+	"json": "{\"id\":\"YM2PR457YcBAQb7\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9469112632\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9469112632\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250730,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9469112632",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9469112632"
+}

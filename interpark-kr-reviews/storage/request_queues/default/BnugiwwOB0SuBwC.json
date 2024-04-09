@@ -1,0 +1,9 @@
+{
+	"id": "BnugiwwOB0SuBwC",
+	"json": "{\"id\":\"BnugiwwOB0SuBwC\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9838825385\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=9838825385\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250685,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=9838825385",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=9838825385"
+}

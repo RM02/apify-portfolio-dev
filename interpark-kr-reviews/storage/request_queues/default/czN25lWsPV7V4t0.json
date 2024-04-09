@@ -1,0 +1,9 @@
+{
+	"id": "czN25lWsPV7V4t0",
+	"json": "{\"id\":\"czN25lWsPV7V4t0\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8840236529\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=8840236529\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250730,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=8840236529",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8840236529"
+}

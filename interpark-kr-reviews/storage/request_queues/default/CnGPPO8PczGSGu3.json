@@ -1,0 +1,9 @@
+{
+	"id": "CnGPPO8PczGSGu3",
+	"json": "{\"id\":\"CnGPPO8PczGSGu3\",\"url\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7218314833\",\"uniqueKey\":\"http://shopping.interpark.com/product/productInfo.do?prdNo=7218314833\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"handleDetail\"}}",
+	"method": "GET",
+	"orderNo": 1663759250682,
+	"retryCount": 0,
+	"uniqueKey": "http://shopping.interpark.com/product/productInfo.do?prdNo=7218314833",
+	"url": "http://shopping.interpark.com/product/productInfo.do?prdNo=7218314833"
+}

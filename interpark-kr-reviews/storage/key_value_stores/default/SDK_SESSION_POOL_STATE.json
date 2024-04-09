@@ -1,0 +1,390 @@
+{
+  "usableSessionsCount": 12,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_QsEvaeh92x",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:06.319Z",
+      "createdAt": "2022-09-21T11:20:06.319Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_OZpPJgJblh",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "_trs_flow",
+            "expires": "2022-09-21T11:50:23.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.818Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_trs_id",
+            "value": "eY%3E4715554645%3E1%3F2",
+            "expires": "2025-09-21T11:20:23.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.829Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "appier_page_isView_shop.interpark.com_ViewTwoPages",
+            "value": "475863c56b0e80ef4d6940b002b5744249f5c9dac98334f028efe5c294e940d9",
+            "expires": "2022-09-21T12:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.831Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "appier_pv_countershop.interpark.com_ViewTwoPages",
+            "value": "0",
+            "expires": "2022-09-21T12:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.833Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "appier_page_isView_shop.interpark.com_PageView",
+            "value": "475863c56b0e80ef4d6940b002b5744249f5c9dac98334f028efe5c294e940d9",
+            "expires": "2022-09-21T12:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.834Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "appier_pv_countershop.interpark.com_PageView",
+            "value": "0",
+            "expires": "2022-09-21T12:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.835Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_atrk_sessidx",
+            "value": "1",
+            "expires": "2022-09-21T11:50:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.835Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_atrk_siteuid",
+            "value": "9VnZJOX50AxL5Bla",
+            "expires": "2023-09-21T11:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.836Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "ab.storage.deviceId.cd97b079-ff05-4967-873a-324050c2a198",
+            "value": "%7B%22g%22%3A%221d112112-d959-c01f-aae0-7add35b96c8c%22%2C%22c%22%3A1663759221481%2C%22l%22%3A1663759221481%7D",
+            "expires": "2023-09-21T17:09:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.837Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1781736607.1663759220",
+            "expires": "2024-09-20T11:20:23.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.837Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "appier_utmz",
+            "value": "%7B%7D",
+            "expires": "2022-09-28T11:20:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.838Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.2.909442565.1663759220",
+            "expires": "2022-09-22T11:20:20.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.839Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "pcid",
+            "value": "166375921202413851",
+            "expires": "2100-02-01T04:00:00.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.840Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_trs_sid",
+            "value": "G%5B64664%3D654364%5Bg%5B%3C6537776467%3C3%3D0",
+            "expires": "2022-09-21T11:50:23.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.841Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_atrk_ssid",
+            "value": "c8BLVtIyFAingGnum63crf",
+            "expires": "2022-09-21T11:50:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.841Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_ga_4SKTL7E8Q8",
+            "value": "GS1.1.1663759223.1.0.1663759223.0.0.0",
+            "expires": "2024-09-20T11:20:23.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.842Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "ab.storage.sessionId.cd97b079-ff05-4967-873a-324050c2a198",
+            "value": "%7B%22g%22%3A%22480e05e0-b2b6-e561-5fc0-274acbe65e4d%22%2C%22e%22%3A1663761021475%2C%22c%22%3A1663759221476%2C%22l%22%3A1663759221476%7D",
+            "expires": "2023-09-21T17:09:21.000Z",
+            "domain": "interpark.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.844Z",
+            "lastAccessed": "2022-09-21T11:21:56.526Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.2.1663759221616.275922273",
+            "expires": "2022-09-21T13:29:57.000Z",
+            "domain": "interpark.com",
+            "path": "/shopdelmar/category",
+            "hostOnly": false,
+            "creation": "2022-09-21T11:20:30.845Z",
+            "lastAccessed": "2022-09-21T11:20:30.845Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:06.325Z",
+      "createdAt": "2022-09-21T11:20:06.325Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_EKRG6QTDwh",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:50.833Z",
+      "createdAt": "2022-09-21T11:20:50.833Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BG0lQrKsVs",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:50.843Z",
+      "createdAt": "2022-09-21T11:20:50.843Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_jdnQhHzVdE",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:50.876Z",
+      "createdAt": "2022-09-21T11:20:50.876Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_JfVTlFBzpn",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:10:56.446Z",
+      "createdAt": "2022-09-21T11:20:56.446Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2ytSm97HtM",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:06.447Z",
+      "createdAt": "2022-09-21T11:21:06.447Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_YX2NGeLVC0",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:16.449Z",
+      "createdAt": "2022-09-21T11:21:16.449Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_CE6XALu8z9",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:26.452Z",
+      "createdAt": "2022-09-21T11:21:26.452Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2VhWbGcRDV",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:36.459Z",
+      "createdAt": "2022-09-21T11:21:36.459Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_HJOklRcaJK",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:46.461Z",
+      "createdAt": "2022-09-21T11:21:46.461Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_3Z40y6sflD",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2022-09-21T12:11:56.466Z",
+      "createdAt": "2022-09-21T11:21:56.466Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
